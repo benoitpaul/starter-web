@@ -6,8 +6,12 @@ this is a simple project
 
 another praragraph
 
+encore
+
 ## Purpose
 
 ### Deployment
+
+this is deployment
 
 ## How to Contribute
