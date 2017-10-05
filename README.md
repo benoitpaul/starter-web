@@ -15,3 +15,7 @@ encore
 this is deployment
 
 ## How to Contribute
+
+## Copyright
+
+2017 git training
